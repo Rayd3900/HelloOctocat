@@ -11,6 +11,7 @@ namespace HelloOctocat
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Octocat!");
+            Console.WriteLine("Hello again octocat!");
         }
     }
 }
